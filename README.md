@@ -1,6 +1,6 @@
 
 # Nexus Financial Hub
-### Dashboard Link: available soon
+### Dashboard Link: https://drive.google.com/file/d/1b9bbaWEFGdn-GyqghpE7jCMXpPU_qqGs/view?usp=drivesdk
 ## Problem Statement
 This dashboard helps this financial institution understand their customers better, it helps the institution know the loan amount they issue per year by monthly basis, the grand total of loan issued and percentage interest rate by these loan transactions. It also lets them know the top customers by location, and identify risks associated by their transaction; thus by risk grades, the hub is attracting creditworthy borrowers and there is a lower likelihood of defaults.
 
