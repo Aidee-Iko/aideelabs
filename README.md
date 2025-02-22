@@ -23,6 +23,8 @@ Month Name = FORMAT(Sheet1[issue_date],"mmmm")
 
 
 A card visual was used to represent count of customers(Loan Applications)
+
+
 ![Image](https://github.com/user-attachments/assets/fec7082f-5a77-4024-a892-b5b63bda8aea)
 
 - Step 9 : A "BridgeTable" was created to form a relationship between the two sheets used in the analysis.
