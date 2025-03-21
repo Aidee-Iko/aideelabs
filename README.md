@@ -41,7 +41,7 @@ Snap of Loan Status by customers
 
 ## Snapshot of Dashboard (Power BI Desktop)
 
-![Image](https://github.com/user-attachments/assets/b117df54-696a-4eb3-bf1d-58245f9ec769)
+![Image](https://github.com/user-attachments/assets/6138a8f4-a939-4431-b432-a5d8429ec92a)
 
 ### Loan Application Type
 - 100% customers applied for individual loans
