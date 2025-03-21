@@ -30,6 +30,7 @@ A card visual was used to represent count of customers(Loan Applications)
 A card visual was used to represent the percentage interest rate generated from the loan transactions.
 
 ![Image](https://github.com/user-attachments/assets/de76e8f3-65b1-44b0-9b0e-df1b6f6c70df)
+
 A card visual was used to represent the total loan amount issued.
 
 ![Image](https://github.com/user-attachments/assets/6b4bc277-4a78-476e-b391-989f12e040df)
